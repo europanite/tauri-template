@@ -1,12 +1,12 @@
-# [Tauri Template](https://github.com/europanite/tauri_template "Tauri Template")
+# [Tauri Template](https://github.com/europanite/tauri-template "Tauri Template")
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ![OS](https://img.shields.io/badge/OS-Linux%20%7C%20macOS%20%7C%20Windows-blue)
 
-[![ci](https://github.com/europanite/tauri_template/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/tauri_template/actions/workflows/ci.yml)
-[![pages](https://github.com/europanite/tauri_template/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/tauri_template/actions/workflows/pages.yml)
-[![tauri](https://github.com/europanite/tauri_template/actions/workflows/tauri.yml/badge.svg)](https://github.com/europanite/tauri_template/actions/workflows/tauri.yml)
-[![Release Desktop Apps](https://github.com/europanite/tauri_template/actions/workflows/release-desktop.yml/badge.svg)](https://github.com/europanite/tauri_template/actions/workflows/release-desktop.yml)
+[![ci](https://github.com/europanite/tauri-template/actions/workflows/ci.yml/badge.svg)](https://github.com/europanite/tauri-template/actions/workflows/ci.yml)
+[![pages](https://github.com/europanite/tauri-template/actions/workflows/pages.yml/badge.svg)](https://github.com/europanite/tauri-template/actions/workflows/pages.yml)
+[![tauri](https://github.com/europanite/tauri-template/actions/workflows/tauri.yml/badge.svg)](https://github.com/europanite/tauri-template/actions/workflows/tauri.yml)
+[![Release Desktop Apps](https://github.com/europanite/tauri-template/actions/workflows/release-desktop.yml/badge.svg)](https://github.com/europanite/tauri-template/actions/workflows/release-desktop.yml)
 
 !["image"](./assets/images/web_ui.png)
 
@@ -39,8 +39,8 @@ bash scripts/release-check.sh
 
 ```bash
 bash scripts/set-app-meta.sh \
-  "tauri_template" \
-  "com.example.tauri_template" \
+  "tauri-template" \
+  "com.example.tauri-template" \
   "0.1.0"
 ```
 
