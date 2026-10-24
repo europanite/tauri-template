@@ -1,6 +1,6 @@
-title: "tauri_template"
-description: "tauri_template"
-baseurl: "/tauri_template"
+title: "tauri-template"
+description: "tauri-template"
+baseurl: "/tauri-template"
 url: "https://europanite.github.io"
 theme: minima
 markdown: kramdown
